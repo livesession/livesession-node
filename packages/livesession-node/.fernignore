@@ -1,0 +1,2 @@
+./npm-publish-local.sh
+./src/index.ts
