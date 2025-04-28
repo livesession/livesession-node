@@ -1,4 +1,4 @@
-# LiveSession TypeScript/JavaScript API Library
+# Official LiveSession TypeScript/JavaScript API Library
 
 [![NPM version](https://img.shields.io/npm/v/livesession.svg)](https://npmjs.org/package/livesession)
 
