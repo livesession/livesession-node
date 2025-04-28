@@ -1,6 +1,6 @@
-# Official LiveSession TypeScript/JavaScript API Library
-
 [![NPM version](https://img.shields.io/npm/v/livesession.svg)](https://npmjs.org/package/livesession)
+
+# Official LiveSession TypeScript/JavaScript API Library
 
 This library provides convenient access to the LiveSession API from TypeScript or JavaScript. It includes both the main LiveSession API client and an OAuth package for authentication.
 
